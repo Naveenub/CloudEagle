@@ -7,7 +7,7 @@
 ## Repository Structure
 
 ```
-cloudeagle-devops/
+CloudEagle/
 ├── README.md                        # This file
 ├── docs/
 │   ├── part1-cicd-design.md         # Part 1: CI/CD Design Document
